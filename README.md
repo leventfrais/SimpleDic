@@ -1,0 +1,2 @@
+# SimpleDic
+golang
